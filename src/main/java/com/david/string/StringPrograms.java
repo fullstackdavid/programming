@@ -1,4 +1,4 @@
-package com.david.programming.string;
+package com.david.string;
 
 /**
  * Hello world!

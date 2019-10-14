@@ -1,4 +1,4 @@
-package com.david.programming.arrays;
+package com.david.arrays;
 
 /**
  * Hello world!
@@ -16,7 +16,7 @@ public class ArrayPrograms
 //    	How find the first repeating element in an array of integers?
 //    	How to reverse array in place in Java?
 
-//    	swap();
+    	swap();
 //    	printReverseArray();
     	
     }
@@ -39,9 +39,12 @@ public class ArrayPrograms
 		// TODO Auto-generated method stub
 		int a = 2;
 		int b = 3;
-		int temp = a;
-		a = b ;
-		b = temp;
+//		int temp = a;
+//		a = b ;
+//		b = temp;
+		a = a + b;
+		b = a- b;
+		a = a-b;
 		System.out.println("a: "+ a+" b : "+b);
 	}
 
