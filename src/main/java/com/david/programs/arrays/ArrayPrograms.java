@@ -1,4 +1,4 @@
-package com.david.arrays;
+package com.david.programs.arrays;
 
 /**
  * Hello world!

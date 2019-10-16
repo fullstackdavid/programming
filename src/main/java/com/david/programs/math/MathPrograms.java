@@ -1,4 +1,4 @@
-package com.david.math;
+package com.david.programs.math;
 
 public class MathPrograms {
 
